@@ -15,13 +15,6 @@ Bakefy is an online bakery website developed using Next.js and styled with Tailw
 - Programming Language: TypeScript
 - Frameworks and Styling: React.js • Next.js • Shadcn-ui • Tailwindcss
 
-# Screenshots
-> [!NOTE]
-> The project is presented in English..
-### Scooters parc display
-![IMG1!](displayAssests/vid_desktop.mp4)
-### Renting a scooter
-![IMG2!](displayAssests/vid_mobile.mp4)
 <hr />
 
 ## Challenges and Solutions
