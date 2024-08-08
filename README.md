@@ -1,4 +1,4 @@
-﻿# Bakefy - Online Bakery Website
+﻿# Bakefy - Online Bakery Website (Front-End)
 ## Overview
 Bakefy is an online bakery website developed using Next.js and styled with Tailwind CSS. The site showcases a variety of bakery products and facilitates online ordering. It is designed with a focus on performance optimization and responsive design, ensuring a seamless user experience across different devices.
 
