@@ -19,9 +19,9 @@ Bakefy is an online bakery website developed using Next.js and styled with Tailw
 > [!NOTE]
 > The project is presented in English..
 ### Scooters parc display
-![IMG1!](displayImages/img1.png)
+![IMG1!](displayAssests/vid_desktop.mp4)
 ### Renting a scooter
-![IMG2!](displayImages/img2.png)
+![IMG2!](displayAssests/vid_mobile.mp4)
 <hr />
 
 ## Challenges and Solutions
