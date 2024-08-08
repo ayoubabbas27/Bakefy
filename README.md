@@ -17,6 +17,11 @@ Bakefy is an online bakery website developed using Next.js and styled with Tailw
 
 <hr />
 
+## Screenshots
+![Main Interface](display_assets/desktop_view.gif)
+
+<hr />
+
 ## Challenges and Solutions
 ### Performance Optimization:
 - Implemented efficient data fetching and caching strategies to enhance page load times and overall site performance.
